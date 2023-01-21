@@ -15,3 +15,10 @@ Provides a "remote" location for storing your git
 workspaces
 
 Useful if you lose/break your computer, etc.
+
+A version control system, such as git helps you by taking care of the following:
+Tracking changes
+Ability to revert back to any version
+Finding what changes were made, when they were made, and by whom
+Easy recovery in case of any disaster
+Improving the efficiency and agility of team projects 
